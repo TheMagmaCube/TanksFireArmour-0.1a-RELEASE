@@ -8,11 +8,11 @@ Assumptions:
 -Shooting from a tank
 -Life implementation
 -Textures:
- 1.tank
- 2.bullet
- 3.shot
- 4.destruction
- 5.maps
+1.tank
+2.bullet
+3.shot
+4.destruction
+5.maps
 -Maps and GUI
 -Multiplayer mode
 -Progression system
